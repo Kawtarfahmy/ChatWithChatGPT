@@ -44,16 +44,16 @@ The code contains a single Controller named "ChatGPTController" ready for POST, 
               
                http://localhost:8081/api/v1/chat-gpt
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/88769633/215223606-04796bec-2e59-4266-bce4-1c82fa15b117.png)
 
           -> POST Method : Allows to save the answer in a csv file.
 
                http://localhost:8081/api/v1/chat-gpt/csv
 
-![img_2.png](img_2.png)
+![image](https://user-images.githubusercontent.com/88769633/215223746-cc5ad82b-0c2c-4b7e-9224-8c109828058a.png)
 
           -> GET Method : this GET Method allows you to read the response from csv file. 
 
                http://localhost:8081/api/v1/chat-gpt/csv
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/88769633/215224020-98a92b60-8395-4824-9924-127652ef637d.png)
