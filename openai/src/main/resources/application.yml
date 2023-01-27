@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+
+chatgpt:
+  Url: https://api.openai.com/v1/completions
+  SecretKey: <you-openai-secretKey>
+
+spring:
+  application:
+    name: OPENAI-SERVICE
+
+
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:8761/eureka
