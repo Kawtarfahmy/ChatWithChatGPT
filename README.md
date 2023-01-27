@@ -13,7 +13,7 @@ The code contains a single Controller named "ChatGPTController" ready for POST, 
 
           - Java 17
 
-          - Maven
+
 
           - Docker
 
